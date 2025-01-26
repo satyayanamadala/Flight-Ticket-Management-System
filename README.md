@@ -1,8 +1,4 @@
-Here’s a more detailed and polished README file for your project:
-
----
-
-### README: ✈️ Flight Ticket Booking System  
+## **✈️ Flight Ticket Booking System**
 
 ---
 
