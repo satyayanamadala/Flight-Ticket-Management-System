@@ -1,7 +1,3 @@
-## **✈️ Flight Ticket Booking System**
-
----
-
 # **Flight Ticket Booking System** 🛫  
 The **Flight Ticket Booking System** is a simple yet interactive application designed for users to search flights, book tickets, and manage bookings—all without requiring a database. The project is built with **Python** for backend processing and **HTML** for the user interface. The system stores all data temporarily in memory, making it lightweight and ideal for smaller-scale applications or learning purposes.  
 
